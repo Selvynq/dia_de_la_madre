@@ -1,0 +1,98 @@
+header , main{
+	background: #FFD7E5;	
+	
+}
+
+#essato-titulo{
+	color: #ffffff;
+	font-weight: bold;
+}
+
+.subtitulo{
+	color: #ffffff;
+	font-weight: bold;
+}
+
+.primera-parte{
+	width: 80%;
+    margin: 0 auto;
+}
+
+.segunda-parte{
+	background: #000000;
+}
+
+
+.owl-carousel .owl-item img {
+    width: 100%;
+    height: 350px;
+}
+
+.sexta-parte{
+	margin-top: 10px;
+}
+
+.anime-parte img{
+	width: 100%;
+	height: auto;
+}
+
+.titulo{
+	color: #ffffff;
+	padding-top: 20%;
+	text-align: center;
+	font-weight: bold;
+}
+
+ul li{
+	color: #000000;
+}
+
+
+.sexta-fondo-morado{
+	color: #ffffff;
+	background-color: #754EE6;
+}
+
+.sexta-fondo-rojo{
+	color: #ffffff;
+	background-color: red;
+}
+
+.septima-parte{
+	margin-top: 20px;
+	height: auto;
+}
+
+.septima-parte{
+    background-size: cover;
+	border: solid 1px black;
+	width: 100%;
+	background-image: url(./girasol.png);
+	background-repeat: no-repeat;
+}
+
+.titulo-parte-septima{
+	padding-top: 20px;
+	color: #ffffff;
+	text-align: center;
+	font-weight: bold;	
+}
+
+.poema{
+	color: #ffffff;
+	text-align: justify;
+}
+
+
+.octava-parte{
+	color: #ffffff;
+	font-weight: bold;
+}
+
+
+footer p {
+	
+	text-align: center;
+    color: #000000;
+}
